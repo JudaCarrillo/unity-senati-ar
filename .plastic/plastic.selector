@@ -1,3 +1,0 @@
-repository "final-project-senati@guille_team@cloud"
-  path "/"
-    smartbranch "/main"
