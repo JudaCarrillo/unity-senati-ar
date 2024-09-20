@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Piramide.unity
+    guid: 1178659c343ed744e9d733707a8eb4bf
+  - enabled: 1
+    path: Assets/Scenes/first_floor.unity
+    guid: 56341fa8b2b34ad4682228da6c1e431f
+  - enabled: 1
+    path: Assets/Scenes/second floor.unity
+    guid: c0e9905e041b2da48864c2b92464ca3d
   m_configObjects: {}
